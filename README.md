@@ -1,3 +1,5 @@
-Olivia Chatterjee
-First Year Engineering Student
+Name: Olivia Chatterjee
+
 College: Techno Main, Salt Lake
+
+First Year Engineering Student
