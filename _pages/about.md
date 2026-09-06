@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 ---
 
-I am **Olivia Chatterjee**, a **Computer Science and Engineering graduate with a specialization in Artificial Intelligence and Machine Learning (AIML)**.
+I am **Olivia Chatterjee**, a **Master’s Student in Computer Science (Étudiante en maîtrise universitaire en sciences informatiques) at Université de Genève**.
 
 My academic and research journey is shaped by a deep interest in the **intersection of logic and learning** — how deterministic systems can evolve and infer knowledge through experience. I have explored this through hands-on research projects in **machine learning**, **compiler design**, and **semantic AI**, at institutes like **Stanford University**, **Florida International University** and **Occidental College**.
 
