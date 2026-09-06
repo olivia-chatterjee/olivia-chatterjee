@@ -25,8 +25,8 @@ author:
   avatar           : "Olivia.JPG"
   name             : "Olivia Chatterjee"
   pronouns         : # example: "she/her"  
-  bio              : "Computer Science Engineering undergraduate student with a specialization in Artificial Intelligence and Machine Learning."
-  location         : "Kolkata, India"
+  bio              : "Master’s student in Computer Science (Étudiante en maîtrise universitaire en sciences informatiques) at the Université de Genève, with a background in Artificial Intelligence and Machine Learning."
+  location         : "Geneva, Switzerland"
   employer         : # "Red Brick University"
   uri              : # URL
   email            : "olivia.chatterjee@ieee.org" 
@@ -36,7 +36,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0006-5295-2451"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
