@@ -9,7 +9,10 @@ author_profile: true
 
 #### Education
 
-- **B.Tech – Computer Science & Engineering (AI & ML Specialization)**  
+- **Master of Science – Computer Science (Maîtrise universitaire en sciences informatiques)**  
+  _Université de Genève, Geneva, Switzerland (September 2026–Ongoing)_  
+
+- **Bachelor of Technology – Computer Science & Engineering (AI & ML Specialization)**  
   _Techno Main Salt Lake, Kolkata, under Maulana Abul Kalam Azad University of Technology, India (2022–2026)_  
 
 - **Indian School Certificate (ISC)**  
